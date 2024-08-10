@@ -1,0 +1,17 @@
+D:\demirbas\Store\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\demirbas\Store\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\demirbas\Store\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\demirbas\Store\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\demirbas\Store\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\demirbas\Store\Services\bin\Debug\net8.0\Services.deps.json
+D:\demirbas\Store\Services\bin\Debug\net8.0\Services.dll
+D:\demirbas\Store\Services\bin\Debug\net8.0\Services.pdb
+D:\demirbas\Store\Services\bin\Debug\net8.0\Entities.dll
+D:\demirbas\Store\Services\bin\Debug\net8.0\Repositories.dll
+D:\demirbas\Store\Services\bin\Debug\net8.0\Entities.pdb
+D:\demirbas\Store\Services\bin\Debug\net8.0\Repositories.pdb
+D:\demirbas\Store\Services\obj\Debug\net8.0\Services.csproj.CopyComplete
+D:\demirbas\Store\Services\obj\Debug\net8.0\Services.dll
+D:\demirbas\Store\Services\obj\Debug\net8.0\refint\Services.dll
+D:\demirbas\Store\Services\obj\Debug\net8.0\Services.pdb
+D:\demirbas\Store\Services\obj\Debug\net8.0\ref\Services.dll
