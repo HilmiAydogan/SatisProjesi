@@ -17,3 +17,4 @@ D:\demirbas\Store\Presention\obj\Debug\net8.0\Presention.dll
 D:\demirbas\Store\Presention\obj\Debug\net8.0\refint\Presention.dll
 D:\demirbas\Store\Presention\obj\Debug\net8.0\Presention.pdb
 D:\demirbas\Store\Presention\obj\Debug\net8.0\ref\Presention.dll
+D:\demirbas\Store\Presention\obj\Debug\net8.0\Presention.sourcelink.json

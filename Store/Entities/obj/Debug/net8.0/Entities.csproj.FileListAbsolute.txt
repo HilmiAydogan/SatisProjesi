@@ -10,3 +10,4 @@ D:\demirbas\Store\Entities\obj\Debug\net8.0\refint\Entities.dll
 D:\demirbas\Store\Entities\obj\Debug\net8.0\Entities.pdb
 D:\demirbas\Store\Entities\obj\Debug\net8.0\ref\Entities.dll
 D:\demirbas\Store\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+D:\demirbas\Store\Entities\obj\Debug\net8.0\Entities.sourcelink.json

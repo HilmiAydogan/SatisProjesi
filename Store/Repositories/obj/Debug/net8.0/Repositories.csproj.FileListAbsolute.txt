@@ -13,3 +13,4 @@ D:\demirbas\Store\Repositories\obj\Debug\net8.0\ref\Repositories.dll
 D:\demirbas\Store\Repositories\bin\Debug\net8.0\Entities.dll
 D:\demirbas\Store\Repositories\bin\Debug\net8.0\Entities.pdb
 D:\demirbas\Store\Repositories\obj\Debug\net8.0\Repositories.csproj.CopyComplete
+D:\demirbas\Store\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
